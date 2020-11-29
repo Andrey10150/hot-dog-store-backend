@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "anboamzo",
+    "password": "lhdRLG03G8P1rEtwQFkYzlkZOJWS8RuD",
+    "database": "anboamzo",
+    "host": "dumbo.db.elephantsql.com",
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
